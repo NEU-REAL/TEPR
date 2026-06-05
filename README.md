@@ -6,6 +6,8 @@ This is the official repository for TEPR. Here, we provide a more detailed descr
     <img src="images/TI-FRD Thermal Images.png" width="100%">
 </p>
 
+Some examples from the TI-FRD dataset}, showing campus scenes with diverse layouts and structures.
+
 <p align="center">
     <img src="images/Viewpoint.png" width="100%">
 </p>
