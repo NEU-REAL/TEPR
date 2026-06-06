@@ -3,9 +3,9 @@
 This is the official repository for TEPR. Here, we provide a more detailed description of our TI-FRD dataset.
 
 <div align="center">
-  <img src="images/TI-FRD Thermal Images.png" width="100%">
   <br>
   Some examples from the TI-FRD dataset, showing campus scenes with diverse layouts and structures.
+  <img src="images/TI-FRD Thermal Images.png" width="100%">
 </div>
 
 <p align="center">
