@@ -18,4 +18,4 @@ Comparison of data acquisition viewpoints in TI-FRD and ViViD++. TI-FRD enables 
     <img src="images/Depth Maps.png" width="100%">
 </p>
 
-Overview of our TI-FRD dataset. The figure shows example RGB images, thermal images, and the corresponding ground-truth depth maps captured under both daytime and nighttime conditions.
+The figure shows example RGB images, thermal images, and the corresponding ground-truth depth maps captured under both daytime and nighttime conditions.
