@@ -19,3 +19,8 @@ Comparison of data acquisition viewpoints in TI-FRD and ViViD++. TI-FRD enables 
 </p>
 
 The figure shows example RGB images, thermal images, and the corresponding ground-truth depth maps captured under both daytime and nighttime conditions.
+
+<p align="center">
+    <img src="images/Sensor Specification.png" width="100%">
+</p>
+Sensor specification for our TI-FRD dataset. acc. and accel. mean range accuracy and acceleration.
