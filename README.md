@@ -2,7 +2,7 @@
 
 This is the official repository for TEPR. Here, we provide a more detailed description of our TI-FRD dataset.
 
-Sample ROS bag files and processed data are available on [Google Drive](https://drive.google.com/drive/folders/1M9JcBsdNACmpUVzLlyk_i84T3QL5B6ti?usp=sharing) and [Baidu Netdisk](https://pan.baidu.com/s/1dGu_wxZhNT6S81c2jthRyA?pwd=fvxc).
+Sample ROS bag files and processed data are available on [Google Drive](https://drive.google.com/drive/folders/1M9JcBsdNACmpUVzLlyk_i84T3QL5B6ti?usp=sharing) and [Baidu Netdisk](https://pan.baidu.com/s/1dGu_wxZhNT6S81c2jthRyA?pwd=fvxc) (Access code: fvxc).
 
 <div align="center">
   Some examples from the TI-FRD dataset, showing campus scenes with diverse layouts and structures.
