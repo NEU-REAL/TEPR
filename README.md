@@ -4,6 +4,11 @@ This is the official repository for TEPR.
 
 ### Motivation
 
+<div align="center">
+  Edge-only reconstruction results observed from different viewpoints. The aligned edge structures across views indicate that edge-only input can still produce a reasonable reconstruction.
+  <img src="images/Edge Reconstruction.png" width="100%">
+</div>
+
 ### Overview of TI-FRD Dataset
 
 Sample ROS bag files and processed data are available on [Google Drive](https://drive.google.com/drive/folders/1M9JcBsdNACmpUVzLlyk_i84T3QL5B6ti?usp=sharing) and [Baidu Netdisk](https://pan.baidu.com/s/1dGu_wxZhNT6S81c2jthRyA?pwd=fvxc) (Access code: fvxc).
