@@ -2,6 +2,8 @@
 
 This is the official repository for TEPR.
 
+### Motivation
+
 ### Overview of TI-FRD Dataset
 
 Sample ROS bag files and processed data are available on [Google Drive](https://drive.google.com/drive/folders/1M9JcBsdNACmpUVzLlyk_i84T3QL5B6ti?usp=sharing) and [Baidu Netdisk](https://pan.baidu.com/s/1dGu_wxZhNT6S81c2jthRyA?pwd=fvxc) (Access code: fvxc).
