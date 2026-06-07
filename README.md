@@ -6,7 +6,7 @@ This is the official repository for TEPR.
 
 <div align="center">
   Edge-only reconstruction results observed from different viewpoints. The aligned edge structures across views indicate that edge-only input can still produce a reasonable reconstruction.
-  <img src="images/Edge Reconstruction.png" width="80%">
+  <img src="images/Edge Reconstruction.png" width="100%">
 </div>
 
 ### Overview of TI-FRD Dataset
